@@ -38,5 +38,5 @@ MIT
 Thanks for checking out my beginner workflow with Github, Terminal and Sublime Text.
 by Natasha Adler
 
-![This is a Picture of me, Natasha Adler](natasha_headshot.JPG "Natasha Adler"width="400px")
+![This is a Picture of me, Natasha Adler](natasha_headshot.JPG "Natasha Adler")
 
